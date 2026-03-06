@@ -18,3 +18,8 @@ I am a 3rd-year student at the Technical University of Cluj-Napoca, currently ea
 * 🌍 **Earth Observation:** Analyzing satellite data to solve environmental challenges (like Urban Heat Islands).
 * 🤖 **Machine Learning:** Building predictive models and AI-driven backend logic.
 * 🔐 **Cybersecurity:** Securing applications and exploring threat mitigation.
+
+**When I'm offline:**
+* 🏃‍♀️ Sports
+* 💃 Dancing
+* 🎨 Visual Arts
